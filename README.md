@@ -15,7 +15,7 @@ I'm an AI & ML enthusiast passionate about building **Intelligent systems** that
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/p-s-suhas-maruthi-10pssm/)
-[![Email](https://img.shields.io/badge/Email-girish119628@gmail.com-orange?style=flat&logo=gmail)](mailto:10pssuhasmaruthi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-10pssuhasmaruthi@gmail.com-orange?style=flat&logo=gmail)](mailto:10pssuhasmaruthi@gmail.com)
 
 ---
 
