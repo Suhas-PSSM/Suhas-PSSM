@@ -5,7 +5,7 @@
 ---
 
 ### 👋 About Me
-I'm an AI & ML enthusiast passionate about building **Intelligent systems** that solve real-world problems. My work revolves around **Artificial Intelligence, Machine Learning, Computer Vision, and Data Science**. I enjoy developing AI systems that learn, adapt, and transform complex data into actionable, real-world outcomes.
+I'm an AI & ML enthusiast passionate about building **Intelligent systems** that solve real-world problems. My work revolves around **Artificial Intelligence, Machine Learning, Generative AI, and Data Science**. I enjoy developing AI systems that learn, adapt, and transform complex data into actionable, real-world outcomes.
 
 - 🤖 **Focus Areas**: Machine Learning, Data Science, Computer Vision, and AI Automation.
 - 🔬 **Interests**: Data visualization, Real-time Vision systems, and Intelligent Automation  
