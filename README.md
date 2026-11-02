@@ -1,34 +1,56 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7591D&width=435&lines=Hi,+I+am+Suhas+Maruthi;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=190&section=header&text=AI%20Engineer&fontSize=48&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=AI%20Agents%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20Production%20ML&descAlignY=65&descSize=16" alt="Neon green AI Engineer banner"/>
+
+# P S Suhas Maruthi
+
+### AI Engineer 
+
+Building AI agents, LLM applications, retrieval pipelines, and production ML systems.
+
+[Portfolio](https://suhas-portfolio10.netlify.app/) · [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/p-s-suhas-maruthi-10pssm/)) · [Email](mailto:10pssuhasmaruthi@gmail.com)
+
+</div>
 
 ---
 
-### 👋 About Me
-I'm an AI & ML enthusiast passionate about building **Intelligent systems** that solve real-world problems. My work revolves around **Artificial Intelligence, Machine Learning, Generative AI, and Data Science**. I enjoy developing AI systems that learn, adapt, and transform complex data into actionable, real-world outcomes.
+### `$ who am i`
 
-- 🤖 **Focus Areas**: Machine Learning, Data Science, Computer Vision, and AI Automation.
-- 🔬 **Interests**: Data visualization, Real-time Vision systems, and Intelligent Automation  
-- 💞️ **Looking to Collaborate On**: AI-powered applications, machine learning models, and open-source projects in computer vision, deep learning, and Intelligent automation.
+```bash
+$ python rag.py "What am I building?"
+
+[INFO] Initializing AI engineering workspace...
+[OK]   Exploring LLM applications and AI agents
+[OK]   Building retrieval-augmented generation pipelines
+[OK]   Developing intelligent applications and APIs
+
+
+$ cat stack.txt
+
+Python · React · RAG · Data Analytics 
+
+$ echo "Always learning. Always building."
+Always learning. Always building.
+```
+
+### `$ git log --stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suhas-PSSM&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-PSSM&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="Most used programming languages"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhas-PSSM&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity"/>
+
+</div>
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/p-s-suhas-maruthi-10pssm/)
-[![Email](https://img.shields.io/badge/Email-10pssuhasmaruthi@gmail.com-orange?style=flat&logo=gmail)](mailto:10pssuhasmaruthi@gmail.com)
+<div align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=Suhas-PSSM&style=flat-square&color=39ff14&label=PROFILE+VIEWS" alt="Profile views"/>
 
-### 🛠️ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-00C2CB?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20Automation-FF4B4B?style=for-the-badge&logo=automation&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Data%20Visualization-20B2AA?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
----
-
-Thanks for visiting! Let’s connect and explore AI-driven solutions together.
+</div>
